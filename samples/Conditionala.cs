@@ -4,7 +4,7 @@ using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/*
 namespace samples
 {
     // projelere isim verilirken ilk harf büyük harfle başlamalı pascal case isimlendirme 
@@ -26,7 +26,7 @@ namespace samples
             Console.WriteLine(result2); // ref yerine out da kullanabilirdik 
             Console.Write(number1); // 20 değerini alır 
 
-            */
+            //
 
             // ref ve out farkları 
             // ref parametresinde number1 e bir değer ataman gerekir 
@@ -75,3 +75,4 @@ namespace samples
         }
     }
 }
+*/
